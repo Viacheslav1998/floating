@@ -5,12 +5,11 @@
     { "path": "./tsconfig.node.json" }
   ],
   "compilerOptions": {
-    /* other configs */
+    "baseUrl": ".",
     "paths": {
       "@/*": [
-        "./src/*" // set path `@/*` as alias of `src/*`
+        "/src/*" // set path `@/*` as alias of `src/*`
       ]
     },
-    /* other configs */
   }
 }
