@@ -8,7 +8,6 @@
   <Header />
   <Content />
   <Footer />
-
 </template>
 
 <style scoped>
