@@ -5,10 +5,18 @@
     { "path": "./tsconfig.node.json" }
   ],
   "compilerOptions": {
-    "baseUrl": ".",
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "strict": true, 
+    "jsx": "preserve",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "baseUrl": "./",
     "paths": {
       "@/*": [
-        "/src/*" // set path `@/*` as alias of `src/*`
+        "src/*" // set path `@/*` as alias of `src/*`
       ]
     },
   }
