@@ -5,8 +5,14 @@
     { "path": "./tsconfig.node.json" }
   ],
   "compilerOptions": {
-    "target": "ESNext",
-    "module": "ESNext",
+    "lib": ["dom", "es2015"],
+    "outDir": "./lib/cjs/",
+    "sourceMap": true,
+    "declaration": true,
+    "noImplicitAny": true,
+    "target": "es5",
+    "module": "commonjs",
+    "allowJs": true,
     "moduleResolution": "node",
     "strict": true, 
     "jsx": "preserve",
@@ -19,5 +25,5 @@
         "src/*" // set path `@/*` as alias of `src/*`
       ]
     },
-  }
+  },
 }

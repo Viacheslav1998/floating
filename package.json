@@ -19,8 +19,12 @@
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.41",
     "tailwindcss": "^3.4.10",
-    "typescript": "^5.5.3",
+    "typescript": "^5.5.4",
     "vite": "^5.4.0",
     "vue-tsc": "^2.0.29"
-  }
+  },
+  "description": "floating the news",
+  "main": "postcss.config.js",
+  "author": "Slavik",
+  "license": "ISC"
 }
