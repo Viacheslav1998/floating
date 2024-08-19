@@ -15,9 +15,13 @@
           </ul>
         </div>
       </div>
-      <div class="logo">
-        <h1>Floating</h1>
-        <p>the - news</p>
+      <div class="flex flex-col mt-40 cursor-pointer">
+        <div class="flex justify-center">
+          <h1 class="text-5xl text-neutral-900">Floating</h1>
+        </div>
+        <div class="flex justify-center">
+          <p class="text-neutral-900 border-b border-black">the-news</p>
+        </div>
       </div> 
     </div>
   </div>
