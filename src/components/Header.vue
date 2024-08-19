@@ -6,12 +6,12 @@
     <div class="bg-[#838996DE] h-[500px] w-full">
       <div class="flex justify-center">
         <div class="w-[50%] mt-5">
-          <ul class="flex justify-evenly font-sans text-2xl font-semibold">
-            <li>blog</li>
-            <li>news</li>
-            <li>gardens</li>
-            <li>tech</li>
-            <li>about us</li>
+          <ul class="flex justify-evenly font-sans text-2xl font-semibold text-slate-200">
+            <li class="cursor-pointer hover:text-orange-300">blog</li>
+            <li class="cursor-pointer hover:text-orange-300">news</li>
+            <li class="cursor-pointer hover:text-orange-300">gardens</li>
+            <li class="cursor-pointer hover:text-orange-300">tech</li>
+            <li class="cursor-pointer hover:text-orange-300">about us</li>
           </ul>
         </div>
       </div>
