@@ -6,13 +6,13 @@
     <div class="bg-[#838996DE] h-[500px] w-full">
       <div class="flex justify-center">
         <div class="w-[50%] mt-5">
-          <ul class="flex justify-evenly font-sans text-2xl font-semibold text-slate-200">
-            <li class="cursor-pointer hover:text-orange-300">blog</li>
-            <li class="cursor-pointer hover:text-orange-300">news</li>
-            <li class="cursor-pointer hover:text-orange-300">gardens</li>
-            <li class="cursor-pointer hover:text-orange-300">tech</li>
-            <li class="cursor-pointer hover:text-orange-300">about us</li>
-          </ul>
+          <nav class="flex justify-evenly font-sans text-2xl font-semibold text-slate-200">
+            <RouterLink to="/">home</RouterLink>
+            <RouterLink to="/news">news</RouterLink>
+            <RouterLink to="/gardens">gardens</RouterLink>
+            <RouterLink to="/tech">tech</RouterLink>
+            <RouterLink to="/about">about us</RouterLink>
+          </nav>
         </div>
       </div>
       <div class="flex flex-col mt-40 cursor-pointer">
