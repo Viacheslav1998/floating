@@ -7,11 +7,11 @@
       <div class="flex justify-center">
         <div class="w-[50%] mt-5">
           <nav class="flex justify-evenly font-sans text-2xl font-semibold text-slate-200">
-            <RouterLink to="/">home</RouterLink>
-            <RouterLink to="/news">news</RouterLink>
-            <RouterLink to="/gardens">gardens</RouterLink>
-            <RouterLink to="/tech">tech</RouterLink>
-            <RouterLink to="/about">about us</RouterLink>
+            <RouterLink to="/" class="cursor-pointer hover:text-orange-300">home</RouterLink>
+            <RouterLink to="/news" class="cursor-pointer hover:text-orange-300">news</RouterLink>
+            <RouterLink to="/gardens" class="cursor-pointer hover:text-orange-300">gardens</RouterLink>
+            <RouterLink to="/tech" class="cursor-pointer hover:text-orange-300">tech</RouterLink>
+            <RouterLink to="/about" class="cursor-pointer hover:text-orange-300">about us</RouterLink>
           </nav>
         </div>
       </div>
