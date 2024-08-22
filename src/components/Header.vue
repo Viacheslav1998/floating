@@ -13,6 +13,9 @@
             <RouterLink to="/tech" class="cursor-pointer hover:text-orange-300">tech</RouterLink>
             <RouterLink to="/about" class="cursor-pointer hover:text-orange-300">about us</RouterLink>
           </nav>
+          <main>
+            <router-view />
+          </main>
         </div>
       </div>
       <div class="flex flex-col mt-40 cursor-pointer">
