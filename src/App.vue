@@ -1,14 +1,20 @@
-<script setup lang="ts">
-  import Header from '@/components/Header.vue'
-  import Content from '@/components/Content.vue'
-  import Footer from '@/components/Footer.vue'
-</script>
-
 <template>
-  <Header />
-  <Content />
-  <Footer />
+  <div>
+    <Header /> <!-- Здесь ваш компонент Header -->
+    <router-view /> <!-- Здесь основной контент страниц -->
+    <Footer /> <!-- Здесь ваш компонент Footer -->
+  </div>
 </template>
 
-<style scoped>
-</style>
+<script lang="ts">
+import { defineComponent } from 'vue'
+import Header from '@/components/Header.vue'
+import Footer from '@/components/Footer.vue'
+
+export default defineComponent({
+  components: {
+    Header,
+    Footer
+  }
+})
+</script>
