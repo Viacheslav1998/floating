@@ -1,8 +1,8 @@
 <template>
   <div>
-    <Header /> <!-- Здесь ваш компонент Header -->
-    <router-view /> <!-- Здесь основной контент страниц -->
-    <Footer /> <!-- Здесь ваш компонент Footer -->
+    <Header /> 
+    <router-view /> 
+    <Footer /> 
   </div>
 </template>
 
