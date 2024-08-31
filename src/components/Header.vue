@@ -7,20 +7,20 @@
       <div class="flex justify-center">
         <div class="w-[50%] mt-5">
           <nav class="flex justify-evenly font-sans text-2xl font-semibold text-slate-200">
-            <RouterLink to="/" class="cursor-pointer hover:text-orange-300">home</RouterLink>
-            <RouterLink to="/news" class="cursor-pointer hover:text-orange-300">news</RouterLink>
-            <RouterLink to="/gardens" class="cursor-pointer hover:text-orange-300">gardens</RouterLink>
-            <RouterLink to="/tech" class="cursor-pointer hover:text-orange-300">tech</RouterLink>
-            <RouterLink to="/about" class="cursor-pointer hover:text-orange-300">about us</RouterLink>
+            <RouterLink to="/" class="cursor-pointer hover:text-yellow-300">home</RouterLink>
+            <RouterLink to="/news" class="cursor-pointer hover:text-yellow-300">news</RouterLink>
+            <RouterLink to="/gardens" class="cursor-pointer hover:text-yellow-300">gardens</RouterLink>
+            <RouterLink to="/tech" class="cursor-pointer hover:text-yellow-300">tech</RouterLink>
+            <RouterLink to="/about" class="cursor-pointer hover:text-yellow-300">about us</RouterLink>
           </nav>
         </div>
       </div>
-      <div class="flex flex-col mt-40 cursor-pointer">
+      <div class="flex flex-col mt-40 cursor-default">
         <div class="flex justify-center">
-          <h1 class="text-5xl text-neutral-900">Floating</h1>
+          <h1 class="text-5xl text-amber-100">Floating</h1>
         </div>
         <div class="flex justify-center">
-          <p class="text-neutral-900 border-b border-black">the-news</p>
+          <p class="text-amber-300 border-b border-amber-300">the-news</p>
         </div>
       </div> 
     </div>
