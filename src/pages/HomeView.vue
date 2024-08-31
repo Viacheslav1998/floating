@@ -10,18 +10,18 @@
   </div>
   <!-- and title page -->
   <div>
-    <div class="bg-yellow-300">
+    <div class="bg-yellow-300 flex justify-around py-10">
       <div>
-        <p>Technology</p>
         <img src="/icons/books.png">
+        <p>Technology</p>
       </div>
       <div>
-        <p>Efficiency</p>
         <img src="/icons/clock.png">
+        <p>Efficiency</p>
       </div>
       <div>
-        <p>Convenience</p>
         <img src="/icons/location.png">
+        <p>Convenience</p>
       </div>
     </div>
     <p>you can see it right now</p>
