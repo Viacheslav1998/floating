@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <div class="bg-[url('../public/images/header.jpg')] bg-left">
+  <div class="bg-[url('../images/header.jpg')] bg-left relative">
     <div class="bg-[#838996DE] h-[500px] w-full">
       <div class="flex justify-center">
         <div class="w-[50%] mt-5">
