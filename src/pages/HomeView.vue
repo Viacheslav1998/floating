@@ -11,18 +11,24 @@
   <!-- and title page -->
   <div>
     <div class="bg-yellow-300 flex justify-center py-5 h-[100px]">
-      <div class="bg-indigo-600 w-[400px] h-[150px] relative opacity-95 bottom-12 z-10">
+      <div class="bg-blue-100 w-[400px] h-[140px] relative bottom-12 z-10 flex flex-col justify-center shadow-lg">
         <div class="flex justify-around">
           <div>
-            <img src="/icons/books.png">
+            <div class="flex justify-center">
+              <img src="/icons/books.png">
+            </div>
             <p>Technology</p>
           </div>
           <div>
-            <img src="/icons/clock.png">
+            <div class="flex justify-center">
+              <img src="/icons/clock.png">
+            </div>
             <p>Efficiency</p>
           </div>
           <div>
-            <img src="/icons/location.png">
+            <div class="flex justify-center">
+              <img src="/icons/location.png">
+            </div>
             <p>Convenience</p>
           </div>
         </div>
