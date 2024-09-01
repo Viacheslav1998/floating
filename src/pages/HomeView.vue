@@ -10,18 +10,22 @@
   </div>
   <!-- and title page -->
   <div>
-    <div class="bg-yellow-300 flex justify-around py-10">
-      <div>
-        <img src="/icons/books.png">
-        <p>Technology</p>
-      </div>
-      <div>
-        <img src="/icons/clock.png">
-        <p>Efficiency</p>
-      </div>
-      <div>
-        <img src="/icons/location.png">
-        <p>Convenience</p>
+    <div class="bg-yellow-300 flex justify-center py-5 h-[100px]">
+      <div class="bg-indigo-600 w-[400px] h-[150px] relative opacity-95 bottom-12 z-10">
+        <div class="flex justify-around">
+          <div>
+            <img src="/icons/books.png">
+            <p>Technology</p>
+          </div>
+          <div>
+            <img src="/icons/clock.png">
+            <p>Efficiency</p>
+          </div>
+          <div>
+            <img src="/icons/location.png">
+            <p>Convenience</p>
+          </div>
+        </div>
       </div>
     </div>
     <p>you can see it right now</p>
