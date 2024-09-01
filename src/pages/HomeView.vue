@@ -34,6 +34,12 @@
         </div>
       </div>
     </div>
-    <p>you can see it right now</p>
+    <!-- top news -->
+    <div class="bg-slate-200">
+      <div>
+        <h3>TOP-3 NEWS</h3>
+      </div>
+      logogogogogogogogoogogoogoogogoogoog
+    </div>
   </div>
 </template>
