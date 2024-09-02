@@ -35,7 +35,7 @@
       </div>
     </div>
     <!-- top news -->
-    <div class="bg-slate-200">
+    <div class="bg-slate-200 py-20 bg-[url('../images/18437.jpg')] h-[400px] bg-no-repeat bg-center">
       <div>
         <h3>TOP-3 NEWS</h3>
       </div>
