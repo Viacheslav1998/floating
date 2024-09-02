@@ -39,7 +39,19 @@
       <div>
         <h3>TOP-3 NEWS</h3>
       </div>
-      logogogogogogogogoogogoogoogogoogoog
+      <div>
+        <div class="box1-tag ">
+          
+        </div>
+        <div class="box2-tag ">
+          
+        </div>
+        <div class="box3-tag ">
+          
+        </div>
+      </div>
     </div>
+    <!-- and top news -->
+
   </div>
 </template>
