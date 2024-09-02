@@ -35,20 +35,20 @@
       </div>
     </div>
     <!-- top news -->
-    <div class="bg-slate-200 my-[95px]">
-      <div class="bg-[url('../images/18437.jpg')] h-[400px] bg-no-repeat bg-center lg:p-20 lg:m-20">
+    <div class="bg-slate-200 my-[95px] flex justify-center">
+      <div class="bg-[url('../images/18437.jpg')] w-[1200px] h-[400px] bg-no-repeat bg-center">
         <div>
           <h3>TOP-3 NEWS</h3>
         </div>
         <div>
           <div class="box1-tag ">
-            
+            asd
           </div>
           <div class="box2-tag ">
-            
+            asd
           </div>
           <div class="box3-tag ">
-            
+            asd
           </div>
         </div>
       </div>
