@@ -39,23 +39,43 @@
       <div class="bg-[url('../images/18437.jpg')] w-[1200px] h-[400px] bg-no-repeat bg-center">
         <div class="bg-[#838996A3] h-[400px]">
           <div class="flex justify-center font-sans py-5">
-            <h3 class="border p-5 border-teal-100 text-slate-50 rounded-md text-2xl">TOP-3 NEWS</h3>
+            <h3 class="border p-5 border-teal-100 text-teal-100 rounded-md text-2xl">TOP-3 NEWS</h3>
           </div>
           <div>
             <div class="box1-tag ">
-              asd
+              <div class="eye">321</div>
+              <div class="img">
+                img here
+              </div>
+              <h3>text title</h3>
+              <p>desk</p>
             </div>
+
             <div class="box2-tag ">
-              asd
+              <div class="eye">321</div>
+              <div class="img">
+                img here
+              </div>
+              <h3>text title</h3>
+              <p>desk</p>
             </div>
+
             <div class="box3-tag ">
-              asd
+              <div class="eye">321</div>
+              <div class="img">
+                img here
+              </div>
+              <h3>text title</h3>
+              <p>desk</p>
             </div>
+
           </div>
         </div>
       </div>
     </div>
     <!-- and top news -->
-
+    <div>
+      advertisement
+    </div>
   </div>
 </template>
