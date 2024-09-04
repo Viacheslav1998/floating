@@ -39,7 +39,7 @@
       <div class="bg-[url('../images/18437.jpg')] w-[1200px] h-[620px] bg-no-repeat bg-center">
         <div class="bg-[#838996A3] h-[620px]">
           <div class="flex justify-center font-sans py-5">
-            <h3 class="border p-5 border-lime-600 border-2 border-lime-300 text-lime-300 rounded-md text-2xl">TOP-3 NEWS</h3>
+            <h3 class="border p-5 border-2 border-lime-300 text-lime-300 rounded-md text-2xl">TOP-3 NEWS</h3>
           </div>
           <div class="flex justify-around">
             <!-- start -->
@@ -86,6 +86,6 @@
     <div class="dec-line w-full h-[300px] bg-slate-400">
       <p>airplane ticket</p>
     </div>
-    
+
   </div>
 </template>
