@@ -41,8 +41,9 @@
           <div class="flex justify-center font-sans py-5">
             <h3 class="border p-5 border-teal-100 text-teal-100 rounded-md text-2xl">TOP-3 NEWS</h3>
           </div>
-          <div>
-            <div class="box1-tag ">
+          <div class="flex justify-around">
+
+            <div class="border">
               <div class="eye">321</div>
               <div class="img">
                 img here
