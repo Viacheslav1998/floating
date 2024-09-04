@@ -36,14 +36,14 @@
     </div>
     <!-- top news -->
     <div class="bg-slate-200 my-[95px] flex justify-center">
-      <div class="bg-[url('../images/18437.jpg')] w-[1200px] h-[500px] bg-no-repeat bg-center">
-        <div class="bg-[#838996A3] h-[500px]">
+      <div class="bg-[url('../images/18437.jpg')] w-[1200px] h-[620px] bg-no-repeat bg-center">
+        <div class="bg-[#838996A3] h-[620px]">
           <div class="flex justify-center font-sans py-5">
-            <h3 class="border p-5 border-teal-100 text-teal-100 rounded-md text-2xl">TOP-3 NEWS</h3>
+            <h3 class="border p-5 border-lime-600 border-2 border-lime-300 text-lime-300 rounded-md text-2xl">TOP-3 NEWS</h3>
           </div>
           <div class="flex justify-around">
-
-            <div class="border border-4 rounded border-lime-600 p-3 w-[280px] bg-lime-900 text-white">
+            <!-- start -->
+            <div class="border border-4 rounded border-lime-600 p-3 w-[280px] bg-lime-900 shadow-xl text-white">
               <div class="text-xl pb-3">Environmental filter</div>
               <div class="image">
                 <img class="h-[200px] w-[100%]" src="/top/6953.jpg">
@@ -53,8 +53,9 @@
                 <a href="#" class="text-white bg-lime-600 hover:bg-lime-400 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Read more</a>
               </div>
             </div>
-
-            <div class="border border-4 rounded border-lime-600 p-3 w-[280px] bg-lime-900 text-white">
+            <!-- end -->
+            <!-- start -->
+            <div class="border border-4 rounded border-lime-600 p-3 w-[280px] bg-lime-900 shadow-xl text-white">
               <div class="text-xl pb-3">Environmental filter</div>
               <div class="image">
                 <img class="h-[200px] w-[100%]" src="/top/19718.jpg">
@@ -64,8 +65,9 @@
                 <a href="#" class="text-white bg-lime-600 hover:bg-lime-400 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Read more</a>
               </div>
             </div>
-
-            <div class="border border-4 rounded border-lime-600 p-3 w-[280px] bg-lime-900 text-white">
+            <!-- end -->
+            <!-- start -->
+            <div class="border border-4 rounded border-lime-600 p-3 w-[280px] bg-lime-900 shadow-xl shadow-lg text-white">
               <div class="text-xl pb-3">Environmental filter</div>
               <div class="image">
                 <img class="h-[200px] w-[100%]" src="/top/2151794975.jpg">
@@ -75,18 +77,15 @@
                 <a href="#" class="text-white bg-lime-600 hover:bg-lime-400 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Read more</a>
               </div>
             </div>
-
+            <!-- end -->
           </div>
         </div>
       </div>
     </div>
+    <!-- top news -->
     <div class="dec-line w-full h-[300px] bg-slate-400">
-
-    </div>
-    <!-- and top news -->
-    <div class="bg-slate-600">
-      
       <p>airplane ticket</p>
     </div>
+    
   </div>
 </template>
