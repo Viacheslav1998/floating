@@ -43,13 +43,13 @@
           </div>
           <div class="flex justify-around">
 
-            <div class="border p-3">
+            <div class="border p-3 w-[280px]">
               <div class="text-xl pb-3">Environmental filter</div>
-              <div class="image w-[250px]">
+              <div class="image">
                 <img src="/top/6953.jpg">
               </div>
-              <h3>text title</h3>
-              <p>desk</p>
+              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit ipsa pariatur quos consectetur beatae, facilis voluptates aliquam quisquam aut officia maiores consequuntur explicabo cum? Sequi quibusdam magni omnis eos sit?</p>
+              <a href="#" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Read more</a>
             </div>
 
             <div class="box2-tag ">
