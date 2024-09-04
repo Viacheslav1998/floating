@@ -43,10 +43,10 @@
           </div>
           <div class="flex justify-around">
 
-            <div class="border">
-              <div class="eye">321</div>
-              <div class="img">
-                img here
+            <div class="border p-3">
+              <div class="text-xl pb-3">Environmental filter</div>
+              <div class="image w-[250px]">
+                <img src="/top/6953.jpg">
               </div>
               <h3>text title</h3>
               <p>desk</p>
@@ -54,8 +54,8 @@
 
             <div class="box2-tag ">
               <div class="eye">321</div>
-              <div class="img">
-                img here
+              <div class="image">
+                image here
               </div>
               <h3>text title</h3>
               <p>desk</p>
@@ -63,7 +63,7 @@
 
             <div class="box3-tag ">
               <div class="eye">321</div>
-              <div class="img">
+              <div class="image">
                 img here
               </div>
               <h3>text title</h3>
