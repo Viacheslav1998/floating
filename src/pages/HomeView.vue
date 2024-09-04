@@ -36,47 +36,57 @@
     </div>
     <!-- top news -->
     <div class="bg-slate-200 my-[95px] flex justify-center">
-      <div class="bg-[url('../images/18437.jpg')] w-[1200px] h-[400px] bg-no-repeat bg-center">
-        <div class="bg-[#838996A3] h-[400px]">
+      <div class="bg-[url('../images/18437.jpg')] w-[1200px] h-[500px] bg-no-repeat bg-center">
+        <div class="bg-[#838996A3] h-[500px]">
           <div class="flex justify-center font-sans py-5">
             <h3 class="border p-5 border-teal-100 text-teal-100 rounded-md text-2xl">TOP-3 NEWS</h3>
           </div>
           <div class="flex justify-around">
 
-            <div class="border p-3 w-[280px]">
+            <div class="border border-4 rounded border-lime-600 p-3 w-[280px] bg-lime-900 text-white">
               <div class="text-xl pb-3">Environmental filter</div>
               <div class="image">
-                <img src="/top/6953.jpg">
+                <img class="h-[200px] w-[100%]" src="/top/6953.jpg">
               </div>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit ipsa pariatur quos consectetur beatae, facilis voluptates aliquam quisquam aut officia maiores consequuntur explicabo cum? Sequi quibusdam magni omnis eos sit?</p>
-              <a href="#" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Read more</a>
+              <p class="py-5">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit ipsa pariatur quos consectetur beatae, facilis voluptates aliquam quisquam aut officia maiores consequuntur explicabo cum? Sequi quibusdam magni omnis eos sit?</p>
+              <div class="pb-2">
+                <a href="#" class="text-white bg-lime-600 hover:bg-lime-400 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Read more</a>
+              </div>
             </div>
 
-            <div class="box2-tag ">
-              <div class="eye">321</div>
+            <div class="border border-4 rounded border-lime-600 p-3 w-[280px] bg-lime-900 text-white">
+              <div class="text-xl pb-3">Environmental filter</div>
               <div class="image">
-                image here
+                <img class="h-[200px] w-[100%]" src="/top/19718.jpg">
               </div>
-              <h3>text title</h3>
-              <p>desk</p>
+              <p class="py-5">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit ipsa pariatur quos consectetur beatae, facilis voluptates aliquam quisquam aut officia maiores consequuntur explicabo cum? Sequi quibusdam magni omnis eos sit?</p>
+              <div class="pb-2">
+                <a href="#" class="text-white bg-lime-600 hover:bg-lime-400 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Read more</a>
+              </div>
             </div>
 
-            <div class="box3-tag ">
-              <div class="eye">321</div>
+            <div class="border border-4 rounded border-lime-600 p-3 w-[280px] bg-lime-900 text-white">
+              <div class="text-xl pb-3">Environmental filter</div>
               <div class="image">
-                img here
+                <img class="h-[200px] w-[100%]" src="/top/2151794975.jpg">
               </div>
-              <h3>text title</h3>
-              <p>desk</p>
+              <p class="py-5">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit ipsa pariatur quos consectetur beatae, facilis voluptates aliquam quisquam aut officia maiores consequuntur explicabo cum? Sequi quibusdam magni omnis eos sit?</p>
+              <div class="pb-2">
+                <a href="#" class="text-white bg-lime-600 hover:bg-lime-400 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Read more</a>
+              </div>
             </div>
 
           </div>
         </div>
       </div>
     </div>
+    <div class="dec-line w-full h-[300px] bg-slate-400">
+
+    </div>
     <!-- and top news -->
-    <div>
-      advertisement
+    <div class="bg-slate-600">
+      
+      <p>airplane ticket</p>
     </div>
   </div>
 </template>
