@@ -83,8 +83,8 @@
       </div>
     </div>
     <!-- top news -->
-    <div class="dec-line w-full h-[300px] bg-slate-400">
-      <p>airplane ticket</p>
+    <div class="dec-line w-full bg-slate-400 flex justify-center">
+      <div class="bg-[url('../ad/b2.jpg')] w-[1200px] h-[620px] bg-no-repeat bg-center"></div>
     </div>
 
   </div>
