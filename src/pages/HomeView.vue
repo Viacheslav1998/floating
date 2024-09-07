@@ -83,13 +83,14 @@
       </div>
     </div>
     <!-- top news -->
-    <div class="dec-line w-full bg-slate-400 flex justify-center">
-      <div class="bg-[url('../ad/b4.jpg')] w-[1200px] h-[620px] bg-no-repeat bg-center">
-        <div>
+    <div class="dec-line py-5 w-full bg-slate-200 flex justify-center">
+      <div class="p-5 rounded-lg bg-[url('../ad/b4.jpg')] w-[1000px] h-[562px] bg-no-repeat bg-center bg-green-200">
+        <div class="flex flex-col bg-slate-200">
           <a href="#try">Try</a>
+          <h4>Complete solution</h4>
         </div>
-        <div>
-          <h4>complete solution</h4>
+        <div class="bg-slate-200">
+          <p>some things aren't available to everyone - don't limit yourself.</p>
         </div>
       </div>
     </div>
