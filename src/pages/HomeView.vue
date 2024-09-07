@@ -84,7 +84,14 @@
     </div>
     <!-- top news -->
     <div class="dec-line w-full bg-slate-400 flex justify-center">
-      <div class="bg-[url('../ad/b2.jpg')] w-[1200px] h-[620px] bg-no-repeat bg-center"></div>
+      <div class="bg-[url('../ad/b4.jpg')] w-[1200px] h-[620px] bg-no-repeat bg-center">
+        <div>
+          <a href="#try">Try</a>
+        </div>
+        <div>
+          <h4>complete solution</h4>
+        </div>
+      </div>
     </div>
 
   </div>
