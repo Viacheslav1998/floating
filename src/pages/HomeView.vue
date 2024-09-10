@@ -93,7 +93,7 @@
         </div>
         <div class="flex flex-col justify-between basis-1/2">
           <p class="text-white">some things aren't available to everyone - don't limit yourself.</p>
-          <p class="text-white">keep going.</p>
+          <p class="text-white text-3xl  rounded-lg bg-yellow-400 pb-1 text-center">keep going.</p>
         </div>
       </div>
     </div>
