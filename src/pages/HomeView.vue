@@ -86,7 +86,7 @@
     <div class="dec-line py-5 w-full bg-slate-200 flex justify-center">
       <div class="flex p-5 rounded-lg bg-[url('../ad/b4.jpg')] w-[1000px] h-[562px] bg-no-repeat bg-center bg-green-200">
         <div class="flex flex-col justify-center basis-1/3 ">
-          <a class="relative text-xl py-5 max-w-[150px] border-4 border-stone-100 hover:border-orange-300 text-center text-stone-100 hover:text-orange-300 focus:outline-none bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-900" href="#try">Try</a>
+          <a class="relative text-xl py-5 max-w-[150px] border-4 border-stone-100 hover:border-orange-300 text-center text-stone-100 hover:text-orange-300 focus:outline-none bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-900 transition duration-300 ease-in-out" href="#try">Take</a>
           <h4 class="py-1 text-4xl text-gray-100">Complete solution</h4>
           <p class="py-1 text-3xl text-gray-100">Great solution</p>
           <p class="py-1 text-2xl text-gray-100">Journey begins</p>
@@ -97,7 +97,13 @@
         </div>
       </div>
     </div>
-    <!-- start greed -->
-     <div class="prepare-grid"></div>
+    <!-- start grid -->
+      <div class="my-20 bg-slate-200 flex justify-center">
+        <div class="bg-slate-300 w-[1200px] grid grid-cols-2">
+          <div>left bar</div>
+          <div>right bar</div>
+          
+        </div>
+      </div>
   </div>
 </template>
