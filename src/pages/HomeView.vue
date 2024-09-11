@@ -102,20 +102,69 @@
         <div class="bg-slate-300 w-[1200px] grid grid-cols-2">
           <div class="grid grid-cols-2">
            
-            <div class="bg-slate-200 border border-orange-500 rounded-md m-5">
+            <div class="bg-slate-200 border border-slate-700 rounded-md m-5">
               <div class="flex justify-around">
-                <h5>Title exaple</h5>
+                <h5 class="text-slate-700 mb-1">sweet pancakes</h5>
                 <div class="flex justify-center">
-                  <img class="w-[16px] h-[16px] mt-1.5 mr-1" src="/fast-blog/eye.png">
-                  <p>124</p>
+                  <img class="w-[16px] h-[16px] mt-1.5 mr-1" src="/icons/eye.png">
+                  <p class="text-[12px] text-pink-600 pt-1.5 font-mono">564</p>
                 </div>
               </div>
-              <img src="">
-              <p>deskription</p>
-              <a href="#">read more</a>
+              <img class="max-h-[150px] w-full object-cover" src="/fast-blog/n1.jpg">
+              <p class="p-1 text-slate-700">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt asperiores enim magnam ipsam ratione sit quisquam ipsum voluptatem facilis deserunt, in ducimus numquam provident obcaecati nesciunt reprehenderit eaque! Quis, itaque.</p>
+              <div class="pt-2 px-2 flex justify-end"> 
+                <a href="#" class="relative text-white bg-gradient-to-r from-purple-500 via-purple-600 to-purple-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-purple-300 dark:focus:ring-purple-800 shadow-lg shadow-purple-500/50 dark:shadow-lg dark:shadow-purple-800/80 font-medium rounded-lg text-sm px-3 py-1.5 text-center me-2 mb-2">Read...</a>
+              </div>
+            </div>
+
+            <div class="bg-slate-200 border border-slate-700 rounded-md m-5">
+              <div class="flex justify-around">
+                <h5 class="text-slate-700 mb-1">sweet pancakes</h5>
+                <div class="flex justify-center">
+                  <img class="w-[16px] h-[16px] mt-1.5 mr-1" src="/icons/eye.png">
+                  <p class="text-[12px] text-pink-600 pt-1.5 font-mono">231</p>
+                </div>
+              </div>
+              <img class="max-h-[150px] w-full object-cover" src="/fast-blog/n2.jpg">
+              <p class="p-1 text-slate-700">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt asperiores enim magnam ipsam ratione sit quisquam ipsum voluptatem facilis deserunt, in ducimus numquam provident obcaecati nesciunt reprehenderit eaque! Quis, itaque.</p>
+              <div class="pt-2 px-2 flex justify-end"> 
+                <a href="#" class="relative text-white bg-gradient-to-r from-purple-500 via-purple-600 to-purple-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-purple-300 dark:focus:ring-purple-800 shadow-lg shadow-purple-500/50 dark:shadow-lg dark:shadow-purple-800/80 font-medium rounded-lg text-sm px-3 py-1.5 text-center me-2 mb-2">Read...</a>
+              </div>
+            </div>
+
+            <div class="bg-slate-200 border border-slate-700 rounded-md m-5">
+              <div class="flex justify-around">
+                <h5 class="text-slate-700 mb-1">sweet pancakes</h5>
+                <div class="flex justify-center">
+                  <img class="w-[16px] h-[16px] mt-1.5 mr-1" src="/icons/eye.png">
+                  <p class="text-[12px] text-pink-600 pt-1.5 font-mono">125</p>
+                </div>
+              </div>
+              <img class="max-h-[150px] w-full object-cover" src="/fast-blog/n3.jpg">
+              <p class="p-1 text-slate-700">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt asperiores enim magnam ipsam ratione sit quisquam ipsum voluptatem facilis deserunt, in ducimus numquam provident obcaecati nesciunt reprehenderit eaque! Quis, itaque.</p>
+              <div class="pt-2 px-2 flex justify-end"> 
+                <a href="#" class="relative text-white bg-gradient-to-r from-purple-500 via-purple-600 to-purple-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-purple-300 dark:focus:ring-purple-800 shadow-lg shadow-purple-500/50 dark:shadow-lg dark:shadow-purple-800/80 font-medium rounded-lg text-sm px-3 py-1.5 text-center me-2 mb-2">Read...</a>
+              </div>
+            </div>
+
+            <div class="bg-slate-200 border border-slate-700 rounded-md m-5">
+              <div class="flex justify-around">
+                <h5 class="text-slate-700 mb-1">sweet pancakes</h5>
+                <div class="flex justify-center">
+                  <img class="w-[16px] h-[16px] mt-1.5 mr-1" src="/icons/eye.png">
+                  <p class="text-[12px] text-pink-600 pt-1.5 font-mono">874</p>
+                </div>
+              </div>
+              <img class="max-h-[150px] w-full object-cover" src="/fast-blog/n4.jpg">
+              <p class="p-1 text-slate-700">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt asperiores enim magnam ipsam ratione sit quisquam ipsum voluptatem facilis deserunt, in ducimus numquam provident obcaecati nesciunt reprehenderit eaque! Quis, itaque.</p>
+              <div class="pt-2 px-2 flex justify-end"> 
+                <a href="#" class="relative text-white bg-gradient-to-r from-purple-500 via-purple-600 to-purple-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-purple-300 dark:focus:ring-purple-800 shadow-lg shadow-purple-500/50 dark:shadow-lg dark:shadow-purple-800/80 font-medium rounded-lg text-sm px-3 py-1.5 text-center me-2 mb-2">Read...</a>
+              </div>
             </div>
         
+
           </div> 
+
           <div>
             <div> space space space </div>
             <div>space space space space </div>
