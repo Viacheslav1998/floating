@@ -102,7 +102,7 @@
         <div class="bg-slate-300 w-[1200px] grid grid-cols-2">
           <div class="grid grid-cols-2">
            
-            <div class="bg-slate-200 border border-slate-700 rounded-md m-5">
+            <div class="bg-slate-200 border border-slate-700 shadow-xl rounded-md m-5">
               <div class="flex justify-around">
                 <h5 class="text-slate-700 mb-1">sweet pancakes</h5>
                 <div class="flex justify-center">
@@ -117,7 +117,7 @@
               </div>
             </div>
 
-            <div class="bg-slate-200 border border-slate-700 rounded-md m-5">
+            <div class="bg-slate-200 border border-slate-700 shadow-xl rounded-md m-5">
               <div class="flex justify-around">
                 <h5 class="text-slate-700 mb-1">sweet pancakes</h5>
                 <div class="flex justify-center">
@@ -132,7 +132,7 @@
               </div>
             </div>
 
-            <div class="bg-slate-200 border border-slate-700 rounded-md m-5">
+            <div class="bg-slate-200 border border-slate-700 shadow-xl rounded-md m-5">
               <div class="flex justify-around">
                 <h5 class="text-slate-700 mb-1">sweet pancakes</h5>
                 <div class="flex justify-center">
@@ -147,7 +147,7 @@
               </div>
             </div>
 
-            <div class="bg-slate-200 border border-slate-700 rounded-md m-5">
+            <div class="bg-slate-200 border border-slate-700 shadow-xl rounded-md m-5">
               <div class="flex justify-around">
                 <h5 class="text-slate-700 mb-1">sweet pancakes</h5>
                 <div class="flex justify-center">
@@ -161,15 +161,14 @@
                 <a href="#" class="relative text-white bg-gradient-to-r from-purple-500 via-purple-600 to-purple-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-purple-300 dark:focus:ring-purple-800 shadow-lg shadow-purple-500/50 dark:shadow-lg dark:shadow-purple-800/80 font-medium rounded-lg text-sm px-3 py-1.5 text-center me-2 mb-2">Read...</a>
               </div>
             </div>
-        
-
           </div> 
 
           <div>
-            <div> space space space </div>
+            <div class="p-5">
+              <img class="rounded-lg shadow-xl bg-gray-500 max-h-[200px] w-full  object-cover" src="/fast-blog/n5.jpg">
+            </div>
             <div>space space space space </div>
           </div>
-          
         </div>
       </div>
   </div>
