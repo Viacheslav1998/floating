@@ -100,8 +100,26 @@
     <!-- start grid -->
       <div class="my-20 bg-slate-200 flex justify-center">
         <div class="bg-slate-300 w-[1200px] grid grid-cols-2">
-          <div>left bar</div>
-          <div>right bar</div>
+          <div class="grid grid-cols-2">
+           
+            <div class="bg-slate-200 border border-orange-500 rounded-md m-5">
+              <div class="flex justify-around">
+                <h5>Title exaple</h5>
+                <div class="flex justify-center">
+                  <img class="w-[16px] h-[16px] mt-1.5 mr-1" src="/fast-blog/eye.png">
+                  <p>124</p>
+                </div>
+              </div>
+              <img src="">
+              <p>deskription</p>
+              <a href="#">read more</a>
+            </div>
+        
+          </div> 
+          <div>
+            <div> space space space </div>
+            <div>space space space space </div>
+          </div>
           
         </div>
       </div>
