@@ -188,13 +188,15 @@
       </div>
   </div>
   <!-- single news -->
-  <div>
-    <div>
-      <p>single news here ...</p>
-    </div>    
-    
-    <div class="paginate">
-      < 1 2 3 4 5 >
+  <div class="h-[1200px] bg-[url('../images/b1.jpg')] bg-cover">
+    <div class=" h-[1200px] backdrop-blur-sm bg-slate-500 p-5 m-5">
+      <div>
+        <p>single news here ...</p>
+      </div>    
+      
+      <div class="paginate">
+        < 1 2 3 4 5 >
+      </div>
     </div>
   </div>
   <!-- end single news -->
