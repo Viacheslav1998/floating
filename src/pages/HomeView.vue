@@ -188,6 +188,9 @@
       </div>
   </div>
   <!-- single news -->
+  <div class="flex justify-center my-20">
+    <p class="text-5xl font-mono font-extraboldfont-extrabold text-zinc-500 border-b-4 border-zinc-500">News</p>
+  </div>
   <div class="h-[1250px] bg-[url('../images/b2.jpg')] bg-cover p-5">
     <div class="rounded-lg h-[1200px] backdrop-blur-3xl bg-white/30 p-5">
       <div>
