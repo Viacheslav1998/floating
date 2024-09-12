@@ -175,4 +175,15 @@
         </div>
       </div>
   </div>
+  <!-- single news -->
+  <div>
+    <div>
+      <p>single news here ...</p>
+    </div>    
+    
+    <div class="paginate">
+      < 1 2 3 4 5 >
+    </div>
+  </div>
+  <!-- end single news -->
 </template>
