@@ -188,8 +188,8 @@
       </div>
   </div>
   <!-- single news -->
-  <div class="h-[1200px] bg-[url('../images/b1.jpg')] bg-cover">
-    <div class=" h-[1200px] backdrop-blur-sm bg-slate-500 p-5 m-5">
+  <div class="h-[1250px] bg-[url('../images/b2.jpg')] bg-cover p-5">
+    <div class="rounded-lg h-[1200px] backdrop-blur-3xl bg-white/30 p-5">
       <div>
         <p>single news here ...</p>
       </div>    
