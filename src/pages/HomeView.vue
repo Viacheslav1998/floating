@@ -99,10 +99,9 @@
     </div>
     <!-- start grid -->
       <div class="my-20 bg-slate-200 flex justify-center">
-        <div class="bg-slate-300 w-[1200px] grid grid-cols-2">
+        <div class="bg-gray-700 w-[1200px] grid grid-cols-2">
           <div class="grid grid-cols-2">
-           
-            <div class="bg-slate-200 border border-slate-700 shadow-xl rounded-md m-5">
+            <div class="bg-slate-200 border-4 border-stone-400 rounded-md m-5">
               <div class="flex justify-around">
                 <h5 class="text-slate-700 mb-1">sweet pancakes</h5>
                 <div class="flex justify-center">
@@ -116,8 +115,7 @@
                 <a href="#" class="relative text-white bg-gradient-to-r from-purple-500 via-purple-600 to-purple-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-purple-300 dark:focus:ring-purple-800 shadow-lg shadow-purple-500/50 dark:shadow-lg dark:shadow-purple-800/80 font-medium rounded-lg text-sm px-3 py-1.5 text-center me-2 mb-2">Read...</a>
               </div>
             </div>
-
-            <div class="bg-slate-200 border border-slate-700 shadow-xl rounded-md m-5">
+            <div class="bg-slate-200 border-4 border-stone-400 rounded-md m-5">
               <div class="flex justify-around">
                 <h5 class="text-slate-700 mb-1">sweet pancakes</h5>
                 <div class="flex justify-center">
@@ -131,8 +129,7 @@
                 <a href="#" class="relative text-white bg-gradient-to-r from-purple-500 via-purple-600 to-purple-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-purple-300 dark:focus:ring-purple-800 shadow-lg shadow-purple-500/50 dark:shadow-lg dark:shadow-purple-800/80 font-medium rounded-lg text-sm px-3 py-1.5 text-center me-2 mb-2">Read...</a>
               </div>
             </div>
-
-            <div class="bg-slate-200 border border-slate-700 shadow-xl rounded-md m-5">
+            <div class="bg-slate-200 border-4 border-stone-400 rounded-md m-5">
               <div class="flex justify-around">
                 <h5 class="text-slate-700 mb-1">sweet pancakes</h5>
                 <div class="flex justify-center">
@@ -146,8 +143,7 @@
                 <a href="#" class="relative text-white bg-gradient-to-r from-purple-500 via-purple-600 to-purple-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-purple-300 dark:focus:ring-purple-800 shadow-lg shadow-purple-500/50 dark:shadow-lg dark:shadow-purple-800/80 font-medium rounded-lg text-sm px-3 py-1.5 text-center me-2 mb-2">Read...</a>
               </div>
             </div>
-
-            <div class="bg-slate-200 border border-slate-700 shadow-xl rounded-md m-5">
+            <div class="bg-slate-200 border-4 border-stone-400 rounded-md m-5">
               <div class="flex justify-around">
                 <h5 class="text-slate-700 mb-1">sweet pancakes</h5>
                 <div class="flex justify-center">
@@ -162,12 +158,19 @@
               </div>
             </div>
           </div> 
-
           <div>
-            <div class="p-5">
-              <img class="rounded-lg shadow-xl bg-gray-500 max-h-[200px] w-full  object-cover" src="/fast-blog/n5.jpg">
+            <div class="m-5 p-2 rounded-lg bg-slate-100">
+              <img class="rounded-lg max-h-[200px] w-full object-cover" src="/fast-blog/n5.jpg">
+              <div class="relative pt-5">
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit perspiciatis quam porro. Incidunt voluptatibus vitae voluptatem ipsum ea ratione eaque, sed, laborum labore at tenetur? Est alias ipsam modi voluptatem!</p>
+              </div>
             </div>
-            <div>space space space space </div>
+            <div class="m-5 p-2 rounded-lg bg-slate-100">
+              <img class="rounded-lg max-h-[200px] w-full object-cover" src="/fast-blog/n6.jpg">
+              <div class="relative pt-5">
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit perspiciatis quam porro. Incidunt voluptatibus vitae voluptatem ipsum ea ratione eaque, sed, laborum labore at tenetur? Est alias ipsam modi voluptatem!</p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
