@@ -10,7 +10,7 @@
   </div>
   <!-- and title page -->
   <div>
-    <div class="bg-yellow-300 flex justify-center py-5 h-[100px]">
+    <div class="bg-yellow-300 flex justify-center py-5 mb-5 h-[100px]">
       <div class="bg-blue-100 w-[400px] h-[140px] relative bottom-12 z-10 flex flex-col justify-center shadow-lg">
         <div class="flex justify-around">
           <div>
@@ -35,6 +35,9 @@
       </div>
     </div>
     <!-- top news -->
+    <div class="flex justify-center mt-20">
+      <p class="text-5xl font-mono font-extraboldfont-extrabold text-zinc-500 border-b-4 border-zinc-500">top news</p>
+    </div>
     <div class="bg-slate-200 my-[95px] flex justify-center">
       <div class="bg-[url('../images/18437.jpg')] w-[1200px] h-[620px] bg-no-repeat bg-center">
         <div class="bg-[#838996A3] h-[620px]">
@@ -83,6 +86,9 @@
       </div>
     </div>
     <!-- top news -->
+    <div class="flex justify-center my-20">
+      <p class="text-5xl font-mono font-extraboldfont-extrabold text-zinc-500 border-b-4 border-zinc-500">special offer</p>
+    </div>
     <div class="dec-line py-5 w-full bg-slate-200 flex justify-center">
       <div class="flex p-5 rounded-lg bg-[url('../ad/b4.jpg')] w-[1000px] h-[562px] bg-no-repeat bg-center bg-green-200">
         <div class="flex flex-col justify-center basis-1/3 ">
@@ -98,6 +104,9 @@
       </div>
     </div>
     <!-- start grid -->
+    <div class="flex justify-center my-20">
+      <p class="text-5xl font-mono font-extraboldfont-extrabold text-zinc-500 border-b-4 border-zinc-500">fast news</p>
+    </div>
       <div class="my-20 bg-slate-200 flex justify-center">
         <div class="bg-gray-700 w-[1200px] grid grid-cols-2">
           <div class="grid grid-cols-2">
