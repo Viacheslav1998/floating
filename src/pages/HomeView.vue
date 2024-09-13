@@ -183,6 +183,11 @@
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit perspiciatis quam porro. Incidunt voluptatibus vitae voluptatem ipsum ea ratione eaque, sed, laborum labore at tenetur? Est alias ipsam modi voluptatem!</p>
               </div>
             </div>
+
+            <div class="rounded-lg m-5 p-2 bg-slate-300">
+              <p>Calendar</p>
+            </div>
+
           </div>
         </div>
       </div>
