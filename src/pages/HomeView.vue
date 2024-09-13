@@ -191,12 +191,25 @@
   <div class="flex justify-center my-20">
     <p class="text-5xl font-mono font-extraboldfont-extrabold text-zinc-500 border-b-4 border-zinc-500">News</p>
   </div>
-  <div class="h-[1250px] bg-[url('../images/b2.jpg')] bg-cover p-5">
-    <div class="rounded-lg h-[1200px] backdrop-blur-3xl bg-white/30 p-5">
-      <div>
+  <div class="bg-[url('../images/b2.jpg')] bg-cover p-5">
+    <div class="rounded-lg  backdrop-blur-3xl bg-white/30 p-5">
+      
+      <div class="w-full rounded-lg  h-[400px] bg-slate-400 mb-5">
         <p>single news here ...</p>
       </div>    
-      
+
+      <div class="w-full rounded-lg  h-[400px] bg-slate-400 mb-5">
+        <p>single news here ...</p>
+      </div>  
+
+      <div class="w-full rounded-lg  h-[400px] bg-slate-400 mb-5">
+        <p>single news here ...</p>
+      </div>  
+
+      <div class="w-full rounded-lg  h-[400px] bg-slate-400 mb-5">
+        <p>single news here ...</p>
+      </div>  
+
       <div class="paginate">
         < 1 2 3 4 5 >
       </div>
