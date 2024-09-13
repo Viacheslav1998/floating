@@ -196,27 +196,27 @@
   <div class="flex justify-center my-20">
     <p class="text-5xl font-mono font-extraboldfont-extrabold text-zinc-500 border-b-4 border-zinc-500">News</p>
   </div>
-  <div class="bg-[url('../images/b2.jpg')] bg-cover p-5">
+  <div class="bg-[url('../images/b2.jpg')] bg-cover p-5 bg-fixed">
     <div class="rounded-lg  backdrop-blur-3xl bg-white/30 p-5">
       
-      <div class="w-full rounded-lg  h-[400px] bg-slate-400 mb-5">
+      <div class="w-[500px] rounded-lg  h-[400px] bg-slate-400 mb-5">
         <p>single news here ...</p>
       </div>    
 
-      <div class="w-full rounded-lg  h-[400px] bg-slate-400 mb-5">
+      <div class="w-[500px] rounded-lg  h-[400px] bg-slate-400 mb-5">
         <p>single news here ...</p>
       </div>  
 
-      <div class="w-full rounded-lg  h-[400px] bg-slate-400 mb-5">
+      <div class="w-[500px] rounded-lg  h-[400px] bg-slate-400 mb-5">
         <p>single news here ...</p>
       </div>  
 
-      <div class="w-full rounded-lg  h-[400px] bg-slate-400 mb-5">
+      <div class="w-[500px] rounded-lg  h-[400px] bg-slate-400 mb-5">
         <p>single news here ...</p>
       </div>  
 
       <!-- pagination -->
-      <nav aria-label="Page navigation example">
+      <nav aria-label="Page navigation example" class="flex justify-center">
         <ul class="flex items-center -space-x-px h-8 text-sm">
           <li>
             <a href="#" class="flex items-center justify-center px-3 h-8 ms-0 leading-tight text-gray-500 bg-white border border-e-0 border-gray-300 rounded-s-lg hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
