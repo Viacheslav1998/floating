@@ -3,7 +3,7 @@
 
 <template>
 
-<div class="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
+<div class="fixed top-0 w-full bg-gray-200 z-20 rounded-full h-2.5 dark:bg-gray-700">
   <div class="bg-purple-600 h-2.5 rounded-full dark:bg-purple-500" style="width: 45%"></div>
 </div>
 
