@@ -184,8 +184,12 @@
               </div>
             </div>
 
-            <div class="rounded-lg m-5 p-2 bg-slate-300">
-              <p>Calendar</p>
+            <div class="rounded-lg m-5 p-2 bg-slate-600 text-slate-50 text-xl">
+              <p>Calendar: your opportunities</p>
+            </div>
+
+            <div class="m-5">
+              <div id="datepicker-inline" inline-datepicker datepicker datepicker-buttons datepicker-autoselect-today></div>
             </div>
 
           </div>
