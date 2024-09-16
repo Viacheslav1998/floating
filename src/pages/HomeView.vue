@@ -201,7 +201,7 @@
     <p class="text-5xl font-mono font-extraboldfont-extrabold text-zinc-500 border-b-4 border-zinc-500">News</p>
   </div>
   <div class="bg-[url('../images/b2.jpg')] bg-cover p-5 bg-fixed">
-    <div class="rounded-lg  backdrop-blur-3xl bg-white/30 p-5">
+    <div class="rounded-lg backdrop-blur-3xl bg-white/30 p-5">
       
       <div class="w-[500px] rounded-lg  h-[400px] bg-slate-400 mb-5">
         <p>single news here ...</p>

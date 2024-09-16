@@ -1,10 +1,44 @@
-<script setup lang="ts">
+<script lang="ts">
+  import { defineComponent, ref, onMounted, onUnmounted } from 'vue';
+
+  export default defineComponent({
+    name: "Header",
+    
+    setup() {
+      // local var progress scroll
+      const scrollPropgress = ref<number>(0);
+
+      // func for update progress scroll
+      const updateScrollProgress = () => {
+        const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+        const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+        scrollPropgress.value = (scrollTop / scrollHeight) * 100;
+      };
+
+      // handler event scroll
+      onMounted(() => {
+        window.addEventListener('scroll', updateScrollProgress);
+      });
+      
+      //Delete the handler when the component is destroyed
+      onUnmounted(() => {
+        window.removeEventListener('scroll', updateScrollProgress);
+      });
+
+      return {
+        scrollPropgress,
+      };
+    }
+  });
+
 </script>
 
 <template>
 
 <div class="fixed top-0 w-full bg-gray-200 z-20 rounded-full h-2.5 dark:bg-gray-700">
-  <div class="bg-purple-600 h-2.5 rounded-full dark:bg-purple-500" style="width: 45%"></div>
+  <div class="bg-purple-600 h-2.5 rounded-full dark:bg-purple-500 transition-all duration-300" 
+  :style="{ width: scrollPropgress + '%' }"
+  ></div>
 </div>
 
   <div class="bg-[url('../images/header.jpg')] bg-left relative">
