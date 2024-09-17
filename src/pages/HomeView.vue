@@ -206,11 +206,74 @@
       
       <div class="flex flex-row">
         
-        <div class="basis-1/4">
-          <div class="w-48 bg-orange-400">
-            <h1>lorem asdj asjd aslkjd </h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum officiis, suscipit ipsa sapiente aliquid autem aut ex quos similique excepturi nihil possimus voluptatibus adipisci dolorum nobis incidunt illum quam voluptates?</p>
+        <div class="w-[800px] bg-white flex justify-around flex-wrap p-5">
+          <!-- box -->
+          <div class="w-80 bg-zinc-900 p-5 rounded-lg border-2 border-slate-100">
+            <img class="border-b border-yellow-400" src="/images/18437.jpg">
+            <h5 class="text-3xl text-yellow-400  font-mono py-2">Super adventures and ...</h5>
+            <p class="pb-5 text-slate-200">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum officiis, suscipit ipsa sapiente aliquid autem aut ex quos similique excepturi nihil possimus voluptatibus adipisci dolorum nobis incidunt illum quam voluptates?</p>
+            <a href="#"  class="flex justify-center text-center text-yellow-400 hover:text-white border border-yellow-400 hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-yellow-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:border-yellow-300 dark:text-yellow-300 dark:hover:text-white dark:hover:bg-yellow-400 dark:focus:ring-yellow-900">Read..</a>
           </div>
+          <!-- box -->
+          <div class="w-80 bg-zinc-900 p-5 rounded-lg border-2 border-slate-100">
+            <img class="border-b border-yellow-400" src="/images/18437.jpg">
+            <h5 class="text-3xl text-yellow-400  font-mono py-2">Super adventures and ...</h5>
+            <p class="pb-5 text-slate-200">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum officiis, suscipit ipsa sapiente aliquid autem aut ex quos similique excepturi nihil possimus voluptatibus adipisci dolorum nobis incidunt illum quam voluptates?</p>
+            <a href="#"  class="flex justify-center text-center text-yellow-400 hover:text-white border border-yellow-400 hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-yellow-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:border-yellow-300 dark:text-yellow-300 dark:hover:text-white dark:hover:bg-yellow-400 dark:focus:ring-yellow-900">Read..</a>
+          </div>
+          <!-- box -->
+          <div class="w-80 bg-zinc-900 p-5 rounded-lg border-2 border-slate-100">
+            <img class="border-b border-yellow-400" src="/images/18437.jpg">
+            <h5 class="text-3xl text-yellow-400  font-mono py-2">Super adventures and ...</h5>
+            <p class="pb-5 text-slate-200">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum officiis, suscipit ipsa sapiente aliquid autem aut ex quos similique excepturi nihil possimus voluptatibus adipisci dolorum nobis incidunt illum quam voluptates?</p>
+            <a href="#"  class="flex justify-center text-center text-yellow-400 hover:text-white border border-yellow-400 hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-yellow-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:border-yellow-300 dark:text-yellow-300 dark:hover:text-white dark:hover:bg-yellow-400 dark:focus:ring-yellow-900">Read..</a>
+          </div>
+          <!-- box -->
+          <div class="w-80 bg-zinc-900 p-5 rounded-lg border-2 border-slate-100">
+            <img class="border-b border-yellow-400" src="/images/18437.jpg">
+            <h5 class="text-3xl text-yellow-400  font-mono py-2">Super adventures and ...</h5>
+            <p class="pb-5 text-slate-200">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum officiis, suscipit ipsa sapiente aliquid autem aut ex quos similique excepturi nihil possimus voluptatibus adipisci dolorum nobis incidunt illum quam voluptates?</p>
+            <a href="#" class="flex justify-center text-center text-yellow-400 hover:text-white border border-yellow-400 hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-yellow-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:border-yellow-300 dark:text-yellow-300 dark:hover:text-white dark:hover:bg-yellow-400 dark:focus:ring-yellow-900">Read..</a>
+          </div>
+         <!-- pagination -->
+          <div class="mt-5 ">
+            <nav aria-label="Page navigation example" class="flex justify-center">
+              <ul class="flex items-center -space-x-px h-8 text-sm">
+                <li>
+                  <a href="#" class="flex items-center justify-center px-3 h-8 ms-0 leading-tight text-yellow-300 bg-zinc-950 border border-e-0 border-gray-300 rounded-s-lg hover:bg-gray-800 hover:text-yellow-300 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
+                    <span class="sr-only">Previous</span>
+                    <svg class="w-2.5 h-2.5 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 6 10">
+                      <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 1 1 5l4 4"/>
+                    </svg>
+                  </a>
+                </li>
+                <li>
+                  <a href="#" class="flex items-center justify-center px-3 h-8 leading-tight text-yellow-400 bg-zinc-950 border border-gray-300 hover:bg-zinc-800 hover:text-yellow-300 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">1</a>
+                </li>
+                <li>
+                  <a href="#" class="flex items-center justify-center px-3 h-8 leading-tight text-yellow-400 bg-zinc-950 border border-gray-300 hover:bg-zinc-800 hover:text-yellow-300 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">2</a>
+                </li>
+                <li>
+                  <a href="#" aria-current="page" class="z-10 flex items-center justify-center px-3 h-8 leading-tight text-yellow-800 border border-blue-300 bg-blue-50 hover:bg-blue-100 hover:text-blue-700 dark:border-gray-700 dark:bg-gray-700 dark:text-white">3</a>
+                </li>
+                <li>
+                  <a href="#" class="flex items-center justify-center px-3 h-8 leading-tight text-yellow-400 bg-zinc-950 border border-gray-300 hover:bg-zinc-800 hover:text-yellow-300 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">4</a>
+                </li>
+                <li>
+                  <a href="#" class="flex items-center justify-center px-3 h-8 leading-tight text-yellow-400 bg-zinc-950 border border-gray-300 hover:bg-zinc-800 hover:text-yellow-300 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">5</a>
+                </li>
+                <li>
+                  <a href="#" class="flex items-center justify-center px-3 h-8 leading-tight text-yellow-400 bg-zinc-950 border border-gray-300 rounded-e-lg hover:bg-gray-800 hover:text-yellow-300 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">
+                    <span class="sr-only">Next</span>
+                    <svg class="w-2.5 h-2.5 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 6 10">
+                      <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 9 4-4-4-4"/>
+                    </svg>
+                  </a>
+                </li>
+              </ul>
+             </nav>
+          </div>
+          <!-- and pagination -->
         </div>
         
         <div class="basis-1/4">
