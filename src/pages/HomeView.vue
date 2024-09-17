@@ -203,40 +203,38 @@
 
   <div class="bg-[url('../images/b2.jpg')] bg-cover p-5 bg-fixed flex">
     <div class="w-full rounded-lg backdrop-blur-3xl bg-white/30 p-5">
-      
       <div class="flex flex-row">
-        
-        <div class="w-[800px] bg-white flex justify-around flex-wrap p-5">
+        <div class="w-[900px] bg-gray-600 flex justify-around flex-wrap p-5 rounded-lg">
           <!-- box -->
-          <div class="w-80 bg-zinc-900 p-5 rounded-lg border-2 border-slate-100">
+          <div class="w-80 bg-zinc-900 p-5 my-2 rounded-lg border-2 border-slate-100">
             <img class="border-b border-yellow-400" src="/images/18437.jpg">
             <h5 class="text-3xl text-yellow-400  font-mono py-2">Super adventures and ...</h5>
             <p class="pb-5 text-slate-200">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum officiis, suscipit ipsa sapiente aliquid autem aut ex quos similique excepturi nihil possimus voluptatibus adipisci dolorum nobis incidunt illum quam voluptates?</p>
             <a href="#"  class="flex justify-center text-center text-yellow-400 hover:text-white border border-yellow-400 hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-yellow-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:border-yellow-300 dark:text-yellow-300 dark:hover:text-white dark:hover:bg-yellow-400 dark:focus:ring-yellow-900">Read..</a>
           </div>
           <!-- box -->
-          <div class="w-80 bg-zinc-900 p-5 rounded-lg border-2 border-slate-100">
+          <div class="w-80 bg-zinc-900 p-5 my-2 rounded-lg border-2 border-slate-100">
             <img class="border-b border-yellow-400" src="/images/18437.jpg">
             <h5 class="text-3xl text-yellow-400  font-mono py-2">Super adventures and ...</h5>
             <p class="pb-5 text-slate-200">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum officiis, suscipit ipsa sapiente aliquid autem aut ex quos similique excepturi nihil possimus voluptatibus adipisci dolorum nobis incidunt illum quam voluptates?</p>
             <a href="#"  class="flex justify-center text-center text-yellow-400 hover:text-white border border-yellow-400 hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-yellow-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:border-yellow-300 dark:text-yellow-300 dark:hover:text-white dark:hover:bg-yellow-400 dark:focus:ring-yellow-900">Read..</a>
           </div>
           <!-- box -->
-          <div class="w-80 bg-zinc-900 p-5 rounded-lg border-2 border-slate-100">
+          <div class="w-80 bg-zinc-900 p-5 my-2 rounded-lg border-2 border-slate-100">
             <img class="border-b border-yellow-400" src="/images/18437.jpg">
             <h5 class="text-3xl text-yellow-400  font-mono py-2">Super adventures and ...</h5>
             <p class="pb-5 text-slate-200">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum officiis, suscipit ipsa sapiente aliquid autem aut ex quos similique excepturi nihil possimus voluptatibus adipisci dolorum nobis incidunt illum quam voluptates?</p>
             <a href="#"  class="flex justify-center text-center text-yellow-400 hover:text-white border border-yellow-400 hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-yellow-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:border-yellow-300 dark:text-yellow-300 dark:hover:text-white dark:hover:bg-yellow-400 dark:focus:ring-yellow-900">Read..</a>
           </div>
           <!-- box -->
-          <div class="w-80 bg-zinc-900 p-5 rounded-lg border-2 border-slate-100">
+          <div class="w-80 bg-zinc-900 p-5 my-2 rounded-lg border-2 border-slate-100">
             <img class="border-b border-yellow-400" src="/images/18437.jpg">
             <h5 class="text-3xl text-yellow-400  font-mono py-2">Super adventures and ...</h5>
             <p class="pb-5 text-slate-200">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum officiis, suscipit ipsa sapiente aliquid autem aut ex quos similique excepturi nihil possimus voluptatibus adipisci dolorum nobis incidunt illum quam voluptates?</p>
             <a href="#" class="flex justify-center text-center text-yellow-400 hover:text-white border border-yellow-400 hover:bg-yellow-500 focus:ring-4 focus:outline-none focus:ring-yellow-300 font-medium rounded-lg text-lg px-5 py-2.5 me-2 mb-2 dark:border-yellow-300 dark:text-yellow-300 dark:hover:text-white dark:hover:bg-yellow-400 dark:focus:ring-yellow-900">Read..</a>
           </div>
          <!-- pagination -->
-          <div class="mt-5 ">
+          <div class="mt-5 w-full">
             <nav aria-label="Page navigation example" class="flex justify-center">
               <ul class="flex items-center -space-x-px h-8 text-lg">
                 <li>
@@ -276,10 +274,20 @@
           <!-- and pagination -->
         </div>
         
-        <div class="basis-1/4">
+        <div class="bg-white w-[50%] rounded-lg bg-gray-400 ml-2">
+          <div class="spesial">
+            <div>
+              <h6>Special Offer!</h6>
+            </div>
+            
+            
+            <div>
 
+            </div>
+
+          </div>
         </div>
-      
+
       </div>
     </div>
   </div>
