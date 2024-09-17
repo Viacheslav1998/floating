@@ -305,5 +305,18 @@
       </div>
     </div>
   </div>
+
+  <div class="w-full flex justify-center my-10">
+    <div class="w-[80%] p-5 bg-slate-700 text-slate-100 rounded-lg text-5xl font-sans font-bold">
+      <h6 class="leading-normal">On other pages you can learn a lot of interesting informative and positive stuff </h6>
+      <div class="mt-5">
+        <img class="rounded-lg h-[400px] w-full object-cover" src="/special/s3.jpg">
+      </div>
+      <div class="mt-5">
+        <button type="button" class="text-gray-900 hover:text-white border border-gray-800 hover:bg-gray-900 focus:ring-4 focus:outline-none focus:ring-gray-300 font-medium rounded-lg text-4xl px-5 py-2.5 text-center me-2 mb-2 dark:border-gray-600 dark:text-gray-400 dark:hover:text-white dark:hover:bg-gray-600 dark:focus:ring-gray-800">Only Up</button>
+      </div>
+    </div>
+  </div>
+
   <!-- end single news -->
 </template>
