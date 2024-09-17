@@ -202,23 +202,25 @@
   </div>
   <div class="bg-[url('../images/b2.jpg')] bg-cover p-5 bg-fixed">
     <div class="rounded-lg backdrop-blur-3xl bg-white/30 p-5">
-      
-      <div class="w-[500px] rounded-lg  h-[400px] bg-slate-400 mb-5">
-        <p>single news here ...</p>
-      </div>    
+      <!-- posts -->
+      <div class="grid grid-cols-2 gap-2 bg-white w-[80%]">
+        <div class="w-[500px] rounded-lg  h-[400px] bg-slate-400 m-5 p-5">
+          <p>single news here ...</p>
+        </div>    
 
-      <div class="w-[500px] rounded-lg  h-[400px] bg-slate-400 mb-5">
-        <p>single news here ...</p>
-      </div>  
+        <div class="w-[500px] rounded-lg  h-[400px] bg-slate-400 m-5 p-5">
+          <p>single news here ...</p>
+        </div>  
 
-      <div class="w-[500px] rounded-lg  h-[400px] bg-slate-400 mb-5">
-        <p>single news here ...</p>
-      </div>  
+        <div class="w-[500px] rounded-lg  h-[400px] bg-slate-400 m-5 p-5">
+          <p>single news here ...</p>
+        </div>  
 
-      <div class="w-[500px] rounded-lg  h-[400px] bg-slate-400 mb-5">
-        <p>single news here ...</p>
-      </div>  
-
+        <div class="w-[500px] rounded-lg  h-[400px] bg-slate-400 m-5 p-5">
+          <p>single news here ...</p>
+        </div>  
+      </div>
+      <!-- and posts -->
       <!-- pagination -->
       <nav aria-label="Page navigation example" class="flex justify-center">
         <ul class="flex items-center -space-x-px h-8 text-sm">

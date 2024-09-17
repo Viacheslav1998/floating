@@ -34,7 +34,6 @@
 </script>
 
 <template>
-
 <div class="fixed top-0 w-full bg-gray-200 z-20 rounded-full h-2.5 dark:bg-gray-700">
   <div class="bg-purple-600 h-2.5 rounded-full dark:bg-purple-500 transition-all duration-300" 
   :style="{ width: scrollPropgress + '%' }"
