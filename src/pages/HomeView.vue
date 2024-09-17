@@ -276,18 +276,32 @@
         
         <div class="bg-white w-[50%] rounded-lg bg-gray-400 ml-2">
           <div class="spesial">
-            <div>
-              <h6>Special Offer!</h6>
+            <div class="bg-blue-700 bg-[url('../special/p1.jpg')] border-4 border-indigo-800 bg-cover p-5 m-5 rounded-lg">
+              <h6 class="text-2xl font-mono text-slate-50 text-center">Special Offer!</h6>
             </div>
-            
-            
-            <div>
 
+            <!-- special box -->
+            <div class="m-5">
+              <div class="relative group h-[500px]">
+                <img src="/special/s1.jpg" alt="Card Image" class="w-full h-[500px] object-cover rounded-lg">
+                <div class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-lg">
+                  <a href="#" class="text-2xl px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600">Learn more..</a>
+                </div>
+              </div>
+            </div>
+
+            <!-- special box -->
+            <div class="m-5">
+              <div class="relative group h-[500px]">
+                <img src="/special/s2.jpg" alt="Card Image" class="w-full h-[500px] object-cover rounded-lg">
+                <div class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-lg">
+                  <a href="#" class="text-2xl px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600">Learn more..</a>
+                </div>
+              </div>
             </div>
 
           </div>
         </div>
-
       </div>
     </div>
   </div>
