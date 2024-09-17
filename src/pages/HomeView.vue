@@ -202,7 +202,9 @@
   </div>
 
   <div class="bg-[url('../images/b2.jpg')] bg-cover p-5 bg-fixed flex">
-  
+    <div class="flex flex-row">
+
+    </div>
   </div>
   <!-- end single news -->
 </template>
