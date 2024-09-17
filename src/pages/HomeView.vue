@@ -254,7 +254,7 @@
                   <a href="#" class="flex items-center justify-center px-3 h-8 leading-tight text-yellow-400 bg-zinc-950 border border-gray-300 hover:bg-zinc-800 hover:text-yellow-300 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">2</a>
                 </li>
                 <li>
-                  <a href="#" aria-current="page" class="z-10 flex items-center justify-center px-3 h-8 leading-tight text-yellow-800 border border-blue-300 bg-blue-50 hover:bg-blue-100 hover:text-blue-700 dark:border-gray-700 dark:bg-gray-700 dark:text-white">3</a>
+                  <a href="#" aria-current="page" class="z-10 flex items-center justify-center px-3 h-8 leading-tight text-emerald-600 border border-gray-300 bg-zinc-950 hover:bg-gray-800 hover:text-yellow-300 dark:border-gray-700 dark:bg-gray-700 dark:text-white">3</a>
                 </li>
                 <li>
                   <a href="#" class="flex items-center justify-center px-3 h-8 leading-tight text-yellow-400 bg-zinc-950 border border-gray-300 hover:bg-zinc-800 hover:text-yellow-300 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white">4</a>
