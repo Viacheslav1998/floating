@@ -202,12 +202,21 @@
   </div>
 
   <div class="bg-[url('../images/b2.jpg')] bg-cover p-5 bg-fixed flex">
-    <div class="flex flex-row">
-      <div class="basis-1/4">
-
-      </div>
-      <div class="basis-1/4">
+    <div class="w-full rounded-lg backdrop-blur-3xl bg-white/30 p-5">
+      
+      <div class="flex flex-row">
         
+        <div class="basis-1/4">
+          <div class="w-48 bg-orange-400">
+            <h1>lorem asdj asjd aslkjd </h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum officiis, suscipit ipsa sapiente aliquid autem aut ex quos similique excepturi nihil possimus voluptatibus adipisci dolorum nobis incidunt illum quam voluptates?</p>
+          </div>
+        </div>
+        
+        <div class="basis-1/4">
+
+        </div>
+      
       </div>
     </div>
   </div>
