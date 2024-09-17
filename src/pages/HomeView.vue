@@ -203,7 +203,12 @@
 
   <div class="bg-[url('../images/b2.jpg')] bg-cover p-5 bg-fixed flex">
     <div class="flex flex-row">
+      <div class="basis-1/4">
 
+      </div>
+      <div class="basis-1/4">
+        
+      </div>
     </div>
   </div>
   <!-- end single news -->
